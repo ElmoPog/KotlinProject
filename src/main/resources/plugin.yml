@@ -1,0 +1,9 @@
+name: Lightning
+version: '${project.version}'
+main: me.elmopog.lightning.Lightning
+api-version: 1.18
+authors: [ ElmoPog ]
+description: Kotlin test project
+commands:
+  givewand:
+    description: Give a player a Lightning Wand
